@@ -216,7 +216,3 @@ final_submission_tejasv_gupta.csv
 compatible with the provided `sample_submission.csv`.
 
 ---
-
-## Author
-
-**Tejasv Gupta**
