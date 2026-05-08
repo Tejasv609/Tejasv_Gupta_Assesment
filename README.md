@@ -195,19 +195,6 @@ Ensemble blending techniques were also used to improve model robustness.
 
 ---
 
-## Repository Structure
-
-```text
-├── notebooks/
-│   └── loan_default_v2.ipynb
-│
-├── final_submission/
-│   └── final_submission_tejasv_gupta.csv
-│
-├── README.md
-```
-
----
 
 ## Key Learnings
 
